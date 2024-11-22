@@ -1,1 +1,4 @@
+nginx
 centos:7
+ubuntu
+debian
