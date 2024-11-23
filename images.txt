@@ -2,3 +2,4 @@ nginx
 centos:7
 ubuntu
 debian
+mysql:5.7
